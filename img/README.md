@@ -37,3 +37,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white
 " />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ky0shir089/ky0shir089/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ky0shir089/ky0shir089/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ky0shir089/ky0shir089/output/pacman-contribution-graph.svg">
+</picture>
