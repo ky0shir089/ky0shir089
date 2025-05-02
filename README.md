@@ -32,10 +32,4 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Play game with Me!</p>
-
-###
-
 <img src="https://raw.githubusercontent.com/ky0shir089/ky0shir089/output/snake.svg" alt="Snake animation" />
-
-###
